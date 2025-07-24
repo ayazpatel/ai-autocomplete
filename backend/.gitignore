@@ -93,3 +93,6 @@ yarn-error.log*
 .pnp
 .pnp.js
 
+# Pycharm
+.idea
+
